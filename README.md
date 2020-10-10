@@ -26,3 +26,5 @@ Keyword: online mystery school
 https://www.cosmic-university.com/%D7%A9%D7%A2%D7%A8/%D7%94%D7%99%D7%9B%D7%9C-%D7%94%D7%A0%D7%AA%D7%95%D7%A0%D7%99%D7%9D
 
 האונברסיטה הקוסמית
+
+the disk world? the 2d world?
