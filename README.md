@@ -17,7 +17,10 @@ Jim Self
 
 Keyword: online mystery school
 
-הספר: קורס בניסים
+*   הספר: קורס בניסים
+    *   Return to love
+    *   Online Cource
+        *   https://www.youtube.com/watch?v=bgWBmiqR4pI
 
 https://www.cosmic-university.com/%D7%A9%D7%A2%D7%A8/%D7%94%D7%99%D7%9B%D7%9C-%D7%94%D7%A0%D7%AA%D7%95%D7%A0%D7%99%D7%9D
 
